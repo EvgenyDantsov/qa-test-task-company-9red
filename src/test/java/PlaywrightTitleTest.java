@@ -9,7 +9,6 @@ import org.junit.After;
 import org.junit.Before;
 
 import static com.microsoft.playwright.assertions.PlaywrightAssertions.assertThat;
-import static org.junit.Assert.assertEquals;
 
 @RunWith(Parameterized.class)
 public class PlaywrightTitleTest {
